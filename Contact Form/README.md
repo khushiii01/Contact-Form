@@ -32,8 +32,6 @@ This project is a simple contact form web application built using React framewor
 8. In sentMail.js replace *userhak80@gmail.com* with your googel account
 9. All set to go now.
 
-## Images
-![CONTACT_PAGE_IMAGE](https://github.com/Jagss24/ContactPage/blob/master/contactpage_img.png)
 
 
 ## Gooogle sheet link
